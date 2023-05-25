@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Daniela Alarcón 👋
 
-<!--
-**alarcndaniela/alarcndaniela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate software engineer, UI designer, and graphic designer with a strong drive for creating exceptional user experiences. My expertise lies in combining technical skills with a keen eye for design, resulting in software applications that are both functional and visually appealing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft Skills
+- **Creativity**
+- **Curiosity**
+- **Empathy**
+- **Humorous**
+- **Leadership**
+- **Time management**
+
+## Skills
+
+- **Software Engineering:** HTML / CSS / SASS Javascript Java
+- **Frameworks, libraries & CMS:** PHP Bootstrap Drupal Laravel Next JS React JS React Native Tailwind Vue.js Wordpress
+- **Tools:** Bitbucket Composer GitLab GitHub Jira Mailhog Minio NPM
+- **UI Design:** Figma
+- **Graphic Design:** Illustrator, Photoshop
+
+## Contact
+
+- **Email:** daniela.alarcongamboa27@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/alarcndaniela/
+- **Portfolio:** https://www.behance.net/danielaalarcon7
